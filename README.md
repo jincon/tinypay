@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](http://poser.pugx.org/jincon/tinypay/v)](https://packagist.org/packages/jincon/tinypay) [![Total Downloads](http://poser.pugx.org/jincon/tinypay/downloads)](https://packagist.org/packages/jincon/tinypay) [![Latest Unstable Version](http://poser.pugx.org/jincon/tinypay/v/unstable)](https://packagist.org/packages/jincon/tinypay) [![License](http://poser.pugx.org/jincon/tinypay/license)](https://packagist.org/packages/jincon/tinypay)
 
-Tinypay，又一个简单国内支付平台轮子，整合支付（微信、支付宝、银联、百度、字节跳动）相关开发。
+Tinypay，又一个简单国内支付平台轮子，整合支付（微信支付、支付宝支付、银联支付、百度支付、字节跳动支付）相关开发。
 
 **！！请先熟悉 相关支付 说明文档！！请具有基本的 debug 能力！！**
 
